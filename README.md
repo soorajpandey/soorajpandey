@@ -46,4 +46,4 @@ I'm a passionate Full-Stack Developer and AI Engineer. I love to build and creat
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=soorajpandey&show_icons=true&theme=radical)](https://github.com/soorajpandey)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soorajpandey&layout=compact&theme=radical)](https://github.com/soorajpandey)
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=soorajpandey.soorajpandey)](https://klicktalk.net)
+[![Visitors](https://visitor-badge.glitch.me/badge?page_id=yushi1007.yushi1007)](https://www.yushi.dev/)
