@@ -41,3 +41,9 @@ I'm a passionate Full-Stack Developer and AI Engineer. I love to build and creat
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
 ![](https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat&logo=PostgreSQL&color=336791)
 ![](https://img.shields.io/badge/Code-SQLite-informational?style=flat&logo=SQLite&color=003B57)
+
+## 📈 GitHub Stats
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=soorajpandey&show_icons=true&theme=radical)](https://github.com/soorajpandey)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soorajpandey&layout=compact&theme=radical)](https://github.com/soorajpandey)
+[![Visitors](https://visitor-badge.glitch.me/badge?page_id=soorajpandey.soorajpandey)](https://klicktalk.net)
