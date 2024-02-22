@@ -41,6 +41,12 @@ I'm a passionate Full-Stack Developer and AI Engineer. I love to build and creat
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
 ![](https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat&logo=PostgreSQL&color=336791)
 ![](https://img.shields.io/badge/Code-SQLite-informational?style=flat&logo=SQLite&color=003B57)
+![](https://img.shields.io/badge/Code-nodejs-informational?style=flat&logo=NodeJs&color=CC342D)
+![](https://img.shields.io/badge/Code-Express-informational?style=flat&logo=Express&color=000000)
+![](https://img.shields.io/badge/Code-GraphQL-informational?style=flat&logo=GraphQL&color=E10098)
+![](https://img.shields.io/badge/Code-REST_API-informational?style=flat&logo=REST-API&color=FF7F50)
+![](https://img.shields.io/badge/Code-WebSockets-informational?style=flat&logo=WebSockets&color=4DC71F)
+![](https://img.shields.io/badge/Code-WebRTC-informational?style=flat&logo=WebRTC&color=333333)
 
 ## 📈 GitHub Stats
 
