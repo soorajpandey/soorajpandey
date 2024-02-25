@@ -1,55 +1,74 @@
-<p align=”center”>
-    <a href="https://klicktalk.net" target="\_blank" rel="noreferrer"><img src="https://github.com/soorajpandey/soorajpandey/assets/42384377/1fef47fb-8077-4905-9df2-60f0354b5321" alt="my banner"></a>
-</p>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=soorajpandey.soorajpandey" />
 
-<h3 align="center">
-    Hi there, I'm <a href="https://klicktalk.net" target="_blank" rel="noreferrer">Suraj</a> 👋
-</h3>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Suraj+Pandey!;" />
+</h1>
 
-<h2 align="center">
-    I'm a Full-Stack Developer 💻, AI Engineer 🤖, and an Entrepreneur 🚀!
-</h2>
+<h3 align="center">A passionate software engineer from India 🇮🇳</h3>
 
-I'm a passionate Full-Stack Developer and AI Engineer. I love to build and create new things. I have a strong passion for learning and sharing my knowledge with others a public as possible. I am also an entrepreneur and I have a startup called Klicktalk. I am also a tech enthusiast and love to learn new technologies and implement them in my projects.
+<br/>
 
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2024 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to play guitar and play football
+<div align="center">
+ 
+ 🔭 I’m currently working on **(KlickTalk) & (WINP)**
+ 
+ 🌱 I’m currently learning **Smart Contract, Kubernetes**
 
-### Connect with me:
+💬 Ask me about **Node.js, React, React Native, Next JS, Firebase... or anything [here](https://github.com/soorajpandey/soorajpandey/issues)**
 
-[<img align="left" alt="klicktalk.net" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="soorajpandey | LinkedIn" width="22px" src="https://raw.githubusercontent.com/soorajpandey/soorajpandey/assets/42384377/1fef47fb-8077-4905-9df2-60f0354b5321" />][linkedin]
-[<img align="left" alt="soorajpandey | Twitter" width="22px" src="https://raw.githubusercontent.com/soorajpandey/soorajpandey/assets/42384377/1fef47fb-8077-4905-9df2-60f0354b5321" />][twitter]
-[<img align="left" alt="soorajpandey | Instagram" width="22px" src="https://raw.githubusercontent.com/soorajpandey/soorajpandey/assets/42384377/1fef47fb-8077-4905-9df2-60f0354b5321" />][instagram]
+ </div>
+ 
+<div align="center"> 
+  <a href="mailto:surajpandey0016@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://linkedin.com/in/soorajpandey001" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://klicktalk.net" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
+</div>
 
-<br />
+ <hr/>
+ 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r,django" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+</div>
 
-### 🔭 I'm currently working on:
+<br/>
+<hr/>
 
-- [Klicktalk](https://klicktalk.net)
-- [WINP](https://winp.io)
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/soorajpandey/soorajpandey/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
 
-## 💼 Technical Skills
+<hr/>
 
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
-![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&color=764ABC)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
-![](https://img.shields.io/badge/Code-Ruby-informational?style=flat&logo=Ruby&color=CC342D)
-![](https://img.shields.io/badge/Code-Ruby_on_Rails-informational?style=flat&logo=Ruby-On-Rails&color=CC0000)
-![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
-![](https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat&logo=PostgreSQL&color=336791)
-![](https://img.shields.io/badge/Code-SQLite-informational?style=flat&logo=SQLite&color=003B57)
-![](https://img.shields.io/badge/Code-nodejs-informational?style=flat&logo=NodeJs&color=CC342D)
-![](https://img.shields.io/badge/Code-Express-informational?style=flat&logo=Express&color=000000)
-![](https://img.shields.io/badge/Code-GraphQL-informational?style=flat&logo=GraphQL&color=E10098)
-![](https://img.shields.io/badge/Code-REST_API-informational?style=flat&logo=REST-API&color=FF7F50)
-![](https://img.shields.io/badge/Code-WebSockets-informational?style=flat&logo=WebSockets&color=4DC71F)
-![](https://img.shields.io/badge/Code-WebRTC-informational?style=flat&logo=WebRTC&color=333333)
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=soorajpandey&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=soorajpandey&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=soorajpandey&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
 
-## 📈 GitHub Stats
+<br/><br/>
 
-[![Anurag's github stats](https://github-readme-stats-two-sable-95.vercel.app/api?username=soorajpandey&show_icons=true&theme=radical)](https://github.com/soorajpandey)
-[![Top Langs](https://github-readme-stats-two-sable-95.vercel.app/api/top-langs/?username=soorajpandey&layout=compact&theme=radical)](https://github.com/soorajpandey)
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=yushi1007.yushi1007)](https://www.yushi.dev/)
+<hr/>
+
+<br/>
+
+<div align="center">
+<a href='https://ko-fi.com/W7W5UWA6B' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi2.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+</div>
+
+<br/>
