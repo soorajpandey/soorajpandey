@@ -60,6 +60,8 @@
   <br/>
   <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=soorajpandey&count_private=true&show_icons=true&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5" alt="top langs" />
 
+  <br/><br/>
+
   <h3>Visitors Count</h3>
 
   ![Visitor Count](https://profile-counter.glitch.me/soorajpandey/count.svg)
