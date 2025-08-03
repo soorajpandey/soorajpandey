@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on (KlickTalk) & (WINP)<br>🌱 I’m currently learning Smart Contract, Kubernetes<br>💬 Ask me about Node.js, React, React Native, Next JS, Firebase... or anything
+🔭 I’m currently working on (Vync App) & (Homeworkly)<br>💬 Ask me about anything
 
 
 ## 🌐 Socials:
