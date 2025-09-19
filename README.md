@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on (Vync App) & (Homeworkly)<br>💬 Ask me about anything
+🔭 I’m currently working on Vync App, Homeworkly & QRBob<br>💬 Ask me about anything
 
 
 ## 🌐 Socials:
