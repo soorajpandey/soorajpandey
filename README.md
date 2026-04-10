@@ -77,7 +77,7 @@
 ### GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=soorajpandey&show_icons=true&include_all_commits=true&count_private=true&bg_color=0d1117&text_color=ffffff&icon_color=6366f1&title_color=ffffff&hide_border=true&ring_color=6366f1" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=soorajpandey&show_icons=true&include_all_commits=true&count_private=true&bg_color=0d1117&text_color=ffffff&icon_color=6366f1&title_color=ffffff&hide_border=true&ring_color=6366f1" alt="GitHub Stats" height="180" />
   &nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=soorajpandey&background=0d1117&stroke=30363d&ring=6366f1&fire=6366f1&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=8b949e&sideLabels=8b949e&dates=8b949e&hide_border=true" alt="Streak Stats" height="180" />
 </div>
@@ -85,7 +85,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soorajpandey&layout=compact&include_all_commits=true&count_private=true&bg_color=0d1117&text_color=ffffff&icon_color=6366f1&title_color=ffffff&hide_border=true" alt="Top Languages" height="180" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=soorajpandey&layout=compact&include_all_commits=true&count_private=true&bg_color=0d1117&text_color=ffffff&icon_color=6366f1&title_color=ffffff&hide_border=true" alt="Top Languages" height="180" />
 </div>
 
 ---
@@ -119,5 +119,5 @@
 <br/>
 
 <div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=soorajpandey&label=Profile%20Views&color=6&icon=1&pretty=true" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=soorajpandey&color=6366f1&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </div>
