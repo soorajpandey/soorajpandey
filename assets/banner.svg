@@ -1,0 +1,80 @@
+<svg width="100%" height="250" viewBox="0 0 1200 250" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        @keyframes gradientShift {
+          0% { background-position: 0% 50%; }
+          50% { background-position: 100% 50%; }
+          100% { background-position: 0% 50%; }
+        }
+        @keyframes glowPulse {
+          0%, 100% { box-shadow: inset 0 0 30px rgba(99, 102, 241, 0.08), 0 0 15px rgba(99, 102, 241, 0.05); }
+          50% { box-shadow: inset 0 0 60px rgba(99, 102, 241, 0.15), 0 0 30px rgba(99, 102, 241, 0.1); }
+        }
+        @keyframes subtleFade {
+          0%, 100% { opacity: 0.85; }
+          50% { opacity: 1; }
+        }
+        .banner {
+          width: 100%;
+          height: 250px;
+          display: flex;
+          flex-direction: column;
+          align-items: center;
+          justify-content: center;
+          background: linear-gradient(135deg, #0d1117 0%, #161b22 25%, #1a1040 50%, #0d1117 75%, #111827 100%);
+          background-size: 400% 400%;
+          animation: gradientShift 15s ease infinite, glowPulse 4s ease-in-out infinite;
+          border-bottom: 1px solid rgba(99, 102, 241, 0.2);
+          font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;
+          box-sizing: border-box;
+          position: relative;
+          overflow: hidden;
+        }
+        .banner::before {
+          content: '';
+          position: absolute;
+          top: 0;
+          left: 0;
+          right: 0;
+          bottom: 0;
+          background: radial-gradient(ellipse at 30% 50%, rgba(99, 102, 241, 0.06) 0%, transparent 70%),
+                      radial-gradient(ellipse at 70% 50%, rgba(129, 140, 248, 0.04) 0%, transparent 70%);
+          pointer-events: none;
+        }
+        .name {
+          font-size: 42px;
+          font-weight: 700;
+          color: #ffffff;
+          letter-spacing: 6px;
+          text-transform: uppercase;
+          margin: 0;
+          z-index: 1;
+          animation: subtleFade 6s ease-in-out infinite;
+        }
+        .subtitle {
+          font-size: 16px;
+          font-weight: 400;
+          color: #8b949e;
+          letter-spacing: 3px;
+          text-transform: uppercase;
+          margin-top: 12px;
+          z-index: 1;
+        }
+        .accent-line {
+          width: 60px;
+          height: 2px;
+          background: linear-gradient(90deg, transparent, #6366f1, transparent);
+          margin-top: 16px;
+          z-index: 1;
+          animation: subtleFade 4s ease-in-out infinite;
+        }
+      </style>
+      <div class="banner">
+        <div class="name">Sooraj Pandey</div>
+        <div class="subtitle">Building Privacy-First Systems</div>
+        <div class="accent-line"></div>
+      </div>
+    </div>
+  </foreignObject>
+</svg>
