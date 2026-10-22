@@ -21,7 +21,7 @@
 ### Languages
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,swift,kotlin,rust,python,c,c++&theme=dark" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=ts,js,swift,kotlin,rust,python,c,cpp,git,vim&theme=dark" alt="Languages" />
 </div>
 
 ### Frontend & Mobile
