@@ -8,8 +8,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1400&color=FFFFFF&center=true&vCenter=true&width=700&lines=Founder+%26+Full-Stack+Engineer;Building+Privacy-First+Products;Cryptography+%26+Secure+Systems;AI+%2B+Real-Time+Experiences;Turning+Ideas+Into+Products+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
-<br/><br/>
-
 <p>
   <b>Founder at Zynclave</b> · Engineer · Builder
 </p>
@@ -78,7 +76,7 @@ Vync combines social communities with **Public and Anonymous modes**, live rooms
 - AI-powered content moderation
 - Recommendation systems
 
-`React Native` `Swift` `Kotlin` `Next.js` `Go` `Django` `PostgreSQL` `Redis` `LiveKit` `AWS`
+`Swift` `Kotlin` `SwiftUI` `Jetpack Compose` `Go` `Django` `PostgreSQL` `Redis` `OpenSearch` `WebRTC` `LiveKit` `Docker` `Kubernetes` `AWS`
 
 ---
 
